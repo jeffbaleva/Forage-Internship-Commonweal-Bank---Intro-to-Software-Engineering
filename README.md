@@ -1,4 +1,4 @@
-# Forage-Internship-Commonweal-Bank---Intro-to-Software-Engineering
+# Forage-Internship-Commonwealth-Bank---Intro-to-Software-Engineering
 
 Welcome to Commonwealth Bank’s Software Engineering Program! This program is designed to show you what it’s like to be a software engineer working at Commonwealth Bank. You’ll be stepping into the role of an entry-level software engineer tasked with building a website containing information about financial cybersecurity. 
 
